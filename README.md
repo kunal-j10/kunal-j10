@@ -7,11 +7,9 @@ My name is [Kunal](https://twitter.com/Kunal_j10). I am a Software Developer �
 <img src='https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png'>
 </p>
 
-- 🔭 I’m currently working on **100 Days of Code**
+- 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **React-Native**
-
-- 💬 Ask me about **Data Structures and Algorithms**
+- 💬 Ask me about **React-Native**
 
 - 📫 How to reach me **kunalsinghlegal@gmail.com**
 
