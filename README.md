@@ -1,34 +1,24 @@
-### Hey there 👋
-My name is [Kunal](https://twitter.com/Kunal_j10). I am a Software Developer 🚀 from India . I am always ready to take challenges and skilled in problem solving .
+**Counting Profile views** <br/> ![](https://komarev.com/ghpvc/?username=kunal-j10)
+<h1 align="center">Hey, This is Kunal 👋 </h1>
+
+<h3 align="center">Currently in the phase of developing React-Native applications 🚀 
+  <br/>along with some hands on Redux and Firebase.</h3>
 <br/>
 <br/>
 
-<p style="text-align: center;">
-<img src='https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png'>
-</p>
+**Visit my    👉 👉  [GOOGLE-PLAYSTORE DEVELOPERS PAGE](https://play.google.com/store/apps/dev?id=6127580528992583812)**  👈 👈
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 💬 Ask me about **React-Native**
-
-- 📫 How to reach me **kunalsinghlegal@gmail.com**
-
-- ⚡ Fun fact: It took less codes to send a man to space than to run a smartphone!
-
+<h2>Github Stats</h2>
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="reactjs" width="40" height="40"/> </a> 
-   
-</p>
-
-<p align="center">
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunal-j10&theme=dark)](https://git.io/streak-stats)
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-j10&show_icons=true&locale=en&theme=tokyonight" alt="kunal-j10" />
 </p>
 
+<h2 align="center">
+ Connect with me here
+</h2>
 <p align="center">
 <a href="https://twitter.com/kunal_j10"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://instagram.com/kunal_j10"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
