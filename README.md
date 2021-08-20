@@ -13,7 +13,7 @@
 <p align="center">
  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunal-j10&theme=dark)](https://git.io/streak-stats)
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-j10&show_icons=true&locale=en&theme=tokyonight" alt="kunal-j10" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-j10&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="kunal-j10" />
 </p>
 
 <h2 align="center">
