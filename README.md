@@ -21,5 +21,5 @@
 </h2>
 <p align="center">
 <a href="https://twitter.com/kunal_j10"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://instagram.com/kunal_j10"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/whoiskunalsingh"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
